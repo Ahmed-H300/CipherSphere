@@ -1,2 +1,4 @@
 # folder where the document of the project is located
 Doc/
+Config/
+test.py
