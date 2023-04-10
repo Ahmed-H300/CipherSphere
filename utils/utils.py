@@ -1,4 +1,3 @@
-import textwrap
 from config import GROUP_SIZE
 
 # Encode Word

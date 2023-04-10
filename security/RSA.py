@@ -1,4 +1,5 @@
 from Crypto.Util import number
+import ast
 
 class RSA:
     # RSA Init
@@ -14,6 +15,14 @@ class RSA:
         self.private_key = ()
         self.generate_key()
         self.generate_primes()
+        self.e_other = 0
+        self.n_other = 0
+
+
+    # Set Other Public Key
+    def set_other_public_key(self, public_key):
+        t = ast.literal_eval(public_key)
+        self.e_other, self.n_other = t
     
     # generate Keys
     def generate_key(self):
@@ -48,7 +57,7 @@ class RSA:
 
     # Encrypt Word
     def encrypt_word(self, word):
-        return pow(word, self.e, self.n)
+        return pow(word, self.e_other, self.n_other)
 
     # Decrypt Word
     def decrypt_word(self, word):
