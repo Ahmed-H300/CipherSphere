@@ -2,3 +2,4 @@
 Doc/
 Config/
 test.py
+__pycache__/
