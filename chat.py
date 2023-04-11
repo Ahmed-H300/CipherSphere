@@ -6,7 +6,7 @@ import queue
 from config import *
 from security import *
 from utils import *
-DEBUG_activate = True
+DEBUG_activate = False
 
 # this module is for the chat module
 class Chat:
@@ -65,7 +65,6 @@ class Chat:
                 msg = self.q.get()
                 if msg == DISCONNECT_MESSAGE:
                     stop_event.set()
-                    print(stop_event.is_set())
                 else:
                     print(msg)
 
@@ -205,10 +204,10 @@ class Chat:
                 msg = self.q.get()
                 if msg == DISCONNECT_MESSAGE:
                     stop_event.set()
-                    print(stop_event.is_set())
                 else:
                     print(msg)
 
+        print("[INACTIVE CONNECTION] [Connection is deactivated]")
         self.threadrec.join()
         self.threadsen.join()
 

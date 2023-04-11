@@ -9,7 +9,7 @@ GROUP_SIZE = 5
 DISCONNECT_MESSAGE = "disconnect"
 NEWLINE_MESSAGE = "NEW_LINE"
 EXCHANGE_MESSAGE = "EXCHANGE_MESSAGE"
-NUMBER_BITS = 70
+NUMBER_BITS = 1024
 
 MODE_MESSAGE = '''
 *    Welcome to Cipher Sphere!                  *
