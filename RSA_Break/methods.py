@@ -1,6 +1,6 @@
 from sympy import factorint
 
-# is_prime
+# is prime
 def is_prime(n):
     if n < 2:
         return False
@@ -13,7 +13,7 @@ def is_prime(n):
             return False
     return True
 
-# next_prime
+# next prime
 def next_prime(n):
     if n < 2:
         return 2
@@ -35,7 +35,7 @@ def prime_factors(n):
         return (2, n >> 1)
     i = 3
     while n % i != 0:
-        i = next_prime(i)
+        i += 2
     return (i, n // i)
 
 # prime factorization for n built-in
@@ -44,4 +44,3 @@ def prime_factors_builtin(n):
     factor_dict = factorint(n)
     list_primes = tuple(factor_dict.keys())
     return list_primes
-
