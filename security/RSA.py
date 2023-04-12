@@ -49,6 +49,8 @@ class RSA:
         m = max(self.p, self.q)
         """
         Generate a random integer e where 1 < e < phi and gcd(e, phi) = 1.
+        i make it form m to phi as i searched and found
+        it is best practice for e to be bigger than  max(self.p, self.q)
         """
         while True:
             e = number.getRandomRange(m, phi)
