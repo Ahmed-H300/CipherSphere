@@ -1,0 +1,50 @@
+Date: 2023-04-11
+Key: 30
+Time: 0.02300262451171875 seconds
+Time: 23.00262451171875 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 40
+Time: 1.255509376525879 seconds
+Time: 1255.509376525879 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 50
+Time: 190.3474142551422 seconds
+Time: 190347.4142551422 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+
+Date: 2023-04-11
+Key: 30
+Time: 0.03300166130065918 seconds
+Time: 33.00166130065918 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 40
+Time: 2.0564124584198 seconds
+Time: 2056.4124584198 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 50
+Time: 198.1874396800995 seconds
+Time: 198187.4396800995 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 60
+Date: 2023-04-12
+Key: 30
+Time: 0.034569740295410156 seconds
+Time: 34.569740295410156 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 40
+Time: 1.5229055881500244 seconds
+Time: 1522.9055881500244 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 50
+Time: 400.0660836696625 seconds
+Time: 400066.0836696625 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------

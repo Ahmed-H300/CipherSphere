@@ -1,0 +1,708 @@
+Date: 2023-04-11
+Key: 30
+Time Encryption: 0.0 seconds
+Time Encryption: 0.0 milliseconds
+Time Decryption: 0.0 seconds
+Time Decryption: 0.0 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 40
+Time Encryption: 0.0010006427764892578 seconds
+Time Encryption: 1.0006427764892578 milliseconds
+Time Decryption: 0.0 seconds
+Time Decryption: 0.0 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 50
+Time Encryption: 0.001001596450805664 seconds
+Time Encryption: 1.001596450805664 milliseconds
+Time Decryption: 0.0 seconds
+Time Decryption: 0.0 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 60
+Time Encryption: 0.0 seconds
+Time Encryption: 0.0 milliseconds
+Time Decryption: 0.0010104179382324219 seconds
+Time Decryption: 1.0104179382324219 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 70
+Time Encryption: 0.0 seconds
+Time Encryption: 0.0 milliseconds
+Time Decryption: 0.0009980201721191406 seconds
+Time Decryption: 0.9980201721191406 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 80
+Time Encryption: 0.0 seconds
+Time Encryption: 0.0 milliseconds
+Time Decryption: 0.0010006427764892578 seconds
+Time Decryption: 1.0006427764892578 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 90
+Time Encryption: 0.0009322166442871094 seconds
+Time Encryption: 0.9322166442871094 milliseconds
+Time Decryption: 0.0 seconds
+Time Decryption: 0.0 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 100
+Time Encryption: 0.0009992122650146484 seconds
+Time Encryption: 0.9992122650146484 milliseconds
+Time Decryption: 0.0005099773406982422 seconds
+Time Decryption: 0.5099773406982422 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 110
+Time Encryption: 0.0009984970092773438 seconds
+Time Encryption: 0.9984970092773438 milliseconds
+Time Decryption: 0.0009980201721191406 seconds
+Time Decryption: 0.9980201721191406 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 120
+Time Encryption: 0.0009982585906982422 seconds
+Time Encryption: 0.9982585906982422 milliseconds
+Time Decryption: 0.0009996891021728516 seconds
+Time Decryption: 0.9996891021728516 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 130
+Time Encryption: 0.002001047134399414 seconds
+Time Encryption: 2.001047134399414 milliseconds
+Time Decryption: 0.002000093460083008 seconds
+Time Decryption: 2.000093460083008 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 140
+Time Encryption: 0.001010894775390625 seconds
+Time Encryption: 1.010894775390625 milliseconds
+Time Decryption: 0.0020003318786621094 seconds
+Time Decryption: 2.0003318786621094 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 150
+Time Encryption: 0.001008749008178711 seconds
+Time Encryption: 1.008749008178711 milliseconds
+Time Decryption: 0.001990079879760742 seconds
+Time Decryption: 1.9900798797607422 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 160
+Time Encryption: 0.002003908157348633 seconds
+Time Encryption: 2.003908157348633 milliseconds
+Time Decryption: 0.003515958786010742 seconds
+Time Decryption: 3.515958786010742 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 170
+Time Encryption: 0.0025033950805664062 seconds
+Time Encryption: 2.5033950805664062 milliseconds
+Time Decryption: 0.0030057430267333984 seconds
+Time Decryption: 3.0057430267333984 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 180
+Time Encryption: 0.002000570297241211 seconds
+Time Encryption: 2.000570297241211 milliseconds
+Time Decryption: 0.002995729446411133 seconds
+Time Decryption: 2.995729446411133 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 190
+Time Encryption: 0.0025129318237304688 seconds
+Time Encryption: 2.5129318237304688 milliseconds
+Time Decryption: 0.0040056705474853516 seconds
+Time Decryption: 4.005670547485352 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 200
+Time Encryption: 0.0030024051666259766 seconds
+Time Encryption: 3.0024051666259766 milliseconds
+Time Decryption: 0.004517078399658203 seconds
+Time Decryption: 4.517078399658203 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 210
+Time Encryption: 0.0030002593994140625 seconds
+Time Encryption: 3.0002593994140625 milliseconds
+Time Decryption: 0.004515647888183594 seconds
+Time Decryption: 4.515647888183594 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 220
+Time Encryption: 0.003999233245849609 seconds
+Time Encryption: 3.9992332458496094 milliseconds
+Time Decryption: 0.004517793655395508 seconds
+Time Decryption: 4.517793655395508 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 230
+Time Encryption: 0.003999948501586914 seconds
+Time Encryption: 3.999948501586914 milliseconds
+Time Decryption: 0.004517316818237305 seconds
+Time Decryption: 4.517316818237305 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 240
+Time Encryption: 0.0035119056701660156 seconds
+Time Encryption: 3.5119056701660156 milliseconds
+Time Decryption: 0.0070040225982666016 seconds
+Time Decryption: 7.004022598266602 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 250
+Time Encryption: 0.005517482757568359 seconds
+Time Encryption: 5.517482757568359 milliseconds
+Time Decryption: 0.003999948501586914 seconds
+Time Decryption: 3.999948501586914 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 260
+Time Encryption: 0.00599980354309082 seconds
+Time Encryption: 5.99980354309082 milliseconds
+Time Decryption: 0.00503849983215332 seconds
+Time Decryption: 5.03849983215332 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 270
+Time Encryption: 0.008518695831298828 seconds
+Time Encryption: 8.518695831298828 milliseconds
+Time Decryption: 0.009266853332519531 seconds
+Time Decryption: 9.266853332519531 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 280
+Time Encryption: 0.009798049926757812 seconds
+Time Encryption: 9.798049926757812 milliseconds
+Time Decryption: 0.010017871856689453 seconds
+Time Decryption: 10.017871856689453 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 290
+Time Encryption: 0.006522178649902344 seconds
+Time Encryption: 6.522178649902344 milliseconds
+Time Decryption: 0.007522106170654297 seconds
+Time Decryption: 7.522106170654297 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 300
+Time Encryption: 0.0059947967529296875 seconds
+Time Encryption: 5.9947967529296875 milliseconds
+Time Decryption: 0.008528470993041992 seconds
+Time Decryption: 8.528470993041992 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 310
+Time Encryption: 0.008517980575561523 seconds
+Time Encryption: 8.517980575561523 milliseconds
+Time Decryption: 0.009518146514892578 seconds
+Time Decryption: 9.518146514892578 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 320
+Time Encryption: 0.010515928268432617 seconds
+Time Encryption: 10.515928268432617 milliseconds
+Time Decryption: 0.00951695442199707 seconds
+Time Decryption: 9.51695442199707 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 330
+Time Encryption: 0.007999420166015625 seconds
+Time Encryption: 7.999420166015625 milliseconds
+Time Decryption: 0.0075113773345947266 seconds
+Time Decryption: 7.511377334594727 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 340
+Time Encryption: 0.009126901626586914 seconds
+Time Encryption: 9.126901626586914 milliseconds
+Time Decryption: 0.010516166687011719 seconds
+Time Decryption: 10.516166687011719 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 350
+Time Encryption: 0.00951385498046875 seconds
+Time Encryption: 9.51385498046875 milliseconds
+Time Decryption: 0.009523630142211914 seconds
+Time Decryption: 9.523630142211914 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 360
+Time Encryption: 0.009514331817626953 seconds
+Time Encryption: 9.514331817626953 milliseconds
+Time Decryption: 0.01051020622253418 seconds
+Time Decryption: 10.51020622253418 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 370
+Time Encryption: 0.010513782501220703 seconds
+Time Encryption: 10.513782501220703 milliseconds
+Time Decryption: 0.011034488677978516 seconds
+Time Decryption: 11.034488677978516 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 380
+Time Encryption: 0.010520458221435547 seconds
+Time Encryption: 10.520458221435547 milliseconds
+Time Decryption: 0.016518831253051758 seconds
+Time Decryption: 16.518831253051758 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 390
+Time Encryption: 0.01151418685913086 seconds
+Time Encryption: 11.51418685913086 milliseconds
+Time Decryption: 0.013035058975219727 seconds
+Time Decryption: 13.035058975219727 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 400
+Time Encryption: 0.013505935668945312 seconds
+Time Encryption: 13.505935668945312 milliseconds
+Time Decryption: 0.015027523040771484 seconds
+Time Decryption: 15.027523040771484 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 410
+Time Encryption: 0.014023303985595703 seconds
+Time Encryption: 14.023303985595703 milliseconds
+Time Decryption: 0.014161109924316406 seconds
+Time Decryption: 14.161109924316406 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 420
+Time Encryption: 0.015038728713989258 seconds
+Time Encryption: 15.038728713989258 milliseconds
+Time Decryption: 0.01451873779296875 seconds
+Time Decryption: 14.51873779296875 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 430
+Time Encryption: 0.014509916305541992 seconds
+Time Encryption: 14.509916305541992 milliseconds
+Time Decryption: 0.018024921417236328 seconds
+Time Decryption: 18.024921417236328 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 440
+Time Encryption: 0.01502370834350586 seconds
+Time Encryption: 15.02370834350586 milliseconds
+Time Decryption: 0.016511201858520508 seconds
+Time Decryption: 16.511201858520508 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 450
+Time Encryption: 0.017047405242919922 seconds
+Time Encryption: 17.047405242919922 milliseconds
+Time Decryption: 0.025106430053710938 seconds
+Time Decryption: 25.106430053710938 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 460
+Time Encryption: 0.01702404022216797 seconds
+Time Encryption: 17.02404022216797 milliseconds
+Time Decryption: 0.019025087356567383 seconds
+Time Decryption: 19.025087356567383 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 470
+Time Encryption: 0.019039392471313477 seconds
+Time Encryption: 19.039392471313477 milliseconds
+Time Decryption: 0.020221710205078125 seconds
+Time Decryption: 20.221710205078125 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 480
+Time Encryption: 0.019023418426513672 seconds
+Time Encryption: 19.023418426513672 milliseconds
+Time Decryption: 0.020144939422607422 seconds
+Time Decryption: 20.144939422607422 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 490
+Time Encryption: 0.02202582359313965 seconds
+Time Encryption: 22.02582359313965 milliseconds
+Time Decryption: 0.030549287796020508 seconds
+Time Decryption: 30.549287796020508 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 500
+Time Encryption: 0.021027803421020508 seconds
+Time Encryption: 21.027803421020508 milliseconds
+Time Decryption: 0.023032188415527344 seconds
+Time Decryption: 23.032188415527344 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 510
+Time Encryption: 0.02002739906311035 seconds
+Time Encryption: 20.02739906311035 milliseconds
+Time Decryption: 0.02204132080078125 seconds
+Time Decryption: 22.04132080078125 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 520
+Time Encryption: 0.023532629013061523 seconds
+Time Encryption: 23.532629013061523 milliseconds
+Time Decryption: 0.024034976959228516 seconds
+Time Decryption: 24.034976959228516 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 530
+Time Encryption: 0.024027109146118164 seconds
+Time Encryption: 24.027109146118164 milliseconds
+Time Decryption: 0.026547908782958984 seconds
+Time Decryption: 26.547908782958984 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 540
+Time Encryption: 0.026551008224487305 seconds
+Time Encryption: 26.551008224487305 milliseconds
+Time Decryption: 0.027554988861083984 seconds
+Time Decryption: 27.554988861083984 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 550
+Time Encryption: 0.027362346649169922 seconds
+Time Encryption: 27.362346649169922 milliseconds
+Time Decryption: 0.030257225036621094 seconds
+Time Decryption: 30.257225036621094 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 560
+Time Encryption: 0.02954411506652832 seconds
+Time Encryption: 29.54411506652832 milliseconds
+Time Decryption: 0.030544519424438477 seconds
+Time Decryption: 30.544519424438477 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 570
+Time Encryption: 0.026555538177490234 seconds
+Time Encryption: 26.555538177490234 milliseconds
+Time Decryption: 0.02855515480041504 seconds
+Time Decryption: 28.55515480041504 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 580
+Time Encryption: 0.02855205535888672 seconds
+Time Encryption: 28.55205535888672 milliseconds
+Time Decryption: 0.03130817413330078 seconds
+Time Decryption: 31.30817413330078 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 590
+Time Encryption: 0.029537200927734375 seconds
+Time Encryption: 29.537200927734375 milliseconds
+Time Decryption: 0.03154945373535156 seconds
+Time Decryption: 31.549453735351562 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 600
+Time Encryption: 0.0344538688659668 seconds
+Time Encryption: 34.4538688659668 milliseconds
+Time Decryption: 0.03504538536071777 seconds
+Time Decryption: 35.04538536071777 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 610
+Time Encryption: 0.03858208656311035 seconds
+Time Encryption: 38.58208656311035 milliseconds
+Time Decryption: 0.045561790466308594 seconds
+Time Decryption: 45.561790466308594 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 620
+Time Encryption: 0.03455376625061035 seconds
+Time Encryption: 34.55376625061035 milliseconds
+Time Decryption: 0.04689669609069824 seconds
+Time Decryption: 46.89669609069824 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 630
+Time Encryption: 0.043175697326660156 seconds
+Time Encryption: 43.175697326660156 milliseconds
+Time Decryption: 0.04007530212402344 seconds
+Time Decryption: 40.07530212402344 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 640
+Time Encryption: 0.03906059265136719 seconds
+Time Encryption: 39.06059265136719 milliseconds
+Time Decryption: 0.04456925392150879 seconds
+Time Decryption: 44.56925392150879 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 650
+Time Encryption: 0.03874015808105469 seconds
+Time Encryption: 38.74015808105469 milliseconds
+Time Decryption: 0.04407024383544922 seconds
+Time Decryption: 44.07024383544922 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 660
+Time Encryption: 0.03805112838745117 seconds
+Time Encryption: 38.05112838745117 milliseconds
+Time Decryption: 0.042066335678100586 seconds
+Time Decryption: 42.066335678100586 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 670
+Time Encryption: 0.04840373992919922 seconds
+Time Encryption: 48.40373992919922 milliseconds
+Time Decryption: 0.05170583724975586 seconds
+Time Decryption: 51.70583724975586 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 680
+Time Encryption: 0.04456472396850586 seconds
+Time Encryption: 44.56472396850586 milliseconds
+Time Decryption: 0.04906439781188965 seconds
+Time Decryption: 49.06439781188965 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 690
+Time Encryption: 0.04207420349121094 seconds
+Time Encryption: 42.07420349121094 milliseconds
+Time Decryption: 0.047577857971191406 seconds
+Time Decryption: 47.577857971191406 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 700
+Time Encryption: 0.04857468605041504 seconds
+Time Encryption: 48.57468605041504 milliseconds
+Time Decryption: 0.0619966983795166 seconds
+Time Decryption: 61.9966983795166 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 710
+Time Encryption: 0.04858040809631348 seconds
+Time Encryption: 48.58040809631348 milliseconds
+Time Decryption: 0.05611228942871094 seconds
+Time Decryption: 56.11228942871094 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 720
+Time Encryption: 0.05989980697631836 seconds
+Time Encryption: 59.89980697631836 milliseconds
+Time Decryption: 0.053589582443237305 seconds
+Time Decryption: 53.589582443237305 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 730
+Time Encryption: 0.05257415771484375 seconds
+Time Encryption: 52.57415771484375 milliseconds
+Time Decryption: 0.05847430229187012 seconds
+Time Decryption: 58.47430229187012 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 740
+Time Encryption: 0.050566911697387695 seconds
+Time Encryption: 50.566911697387695 milliseconds
+Time Decryption: 0.0561983585357666 seconds
+Time Decryption: 56.1983585357666 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 750
+Time Encryption: 0.055600881576538086 seconds
+Time Encryption: 55.600881576538086 milliseconds
+Time Decryption: 0.06183195114135742 seconds
+Time Decryption: 61.83195114135742 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 760
+Time Encryption: 0.05813860893249512 seconds
+Time Encryption: 58.13860893249512 milliseconds
+Time Decryption: 0.06407451629638672 seconds
+Time Decryption: 64.07451629638672 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 770
+Time Encryption: 0.07360100746154785 seconds
+Time Encryption: 73.60100746154785 milliseconds
+Time Decryption: 0.06794476509094238 seconds
+Time Decryption: 67.94476509094238 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 780
+Time Encryption: 0.05958867073059082 seconds
+Time Encryption: 59.58867073059082 milliseconds
+Time Decryption: 0.06633591651916504 seconds
+Time Decryption: 66.33591651916504 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 790
+Time Encryption: 0.06362462043762207 seconds
+Time Encryption: 63.62462043762207 milliseconds
+Time Decryption: 0.07293558120727539 seconds
+Time Decryption: 72.93558120727539 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 800
+Time Encryption: 0.06325268745422363 seconds
+Time Encryption: 63.25268745422363 milliseconds
+Time Decryption: 0.07212972640991211 seconds
+Time Decryption: 72.12972640991211 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 810
+Time Encryption: 0.06509232521057129 seconds
+Time Encryption: 65.09232521057129 milliseconds
+Time Decryption: 0.07222509384155273 seconds
+Time Decryption: 72.22509384155273 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 820
+Time Encryption: 0.06561017036437988 seconds
+Time Encryption: 65.61017036437988 milliseconds
+Time Decryption: 0.08480334281921387 seconds
+Time Decryption: 84.80334281921387 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 830
+Time Encryption: 0.06914496421813965 seconds
+Time Encryption: 69.14496421813965 milliseconds
+Time Decryption: 0.07730269432067871 seconds
+Time Decryption: 77.30269432067871 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 840
+Time Encryption: 0.07060360908508301 seconds
+Time Encryption: 70.60360908508301 milliseconds
+Time Decryption: 0.088134765625 seconds
+Time Decryption: 88.134765625 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 850
+Time Encryption: 0.08435225486755371 seconds
+Time Encryption: 84.35225486755371 milliseconds
+Time Decryption: 0.09264230728149414 seconds
+Time Decryption: 92.64230728149414 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 860
+Time Encryption: 0.07615470886230469 seconds
+Time Encryption: 76.15470886230469 milliseconds
+Time Decryption: 0.08756780624389648 seconds
+Time Decryption: 87.56780624389648 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 870
+Time Encryption: 0.08315849304199219 seconds
+Time Encryption: 83.15849304199219 milliseconds
+Time Decryption: 0.09569120407104492 seconds
+Time Decryption: 95.69120407104492 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 880
+Time Encryption: 0.08302593231201172 seconds
+Time Encryption: 83.02593231201172 milliseconds
+Time Decryption: 0.09305930137634277 seconds
+Time Decryption: 93.05930137634277 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 890
+Time Encryption: 0.09243297576904297 seconds
+Time Encryption: 92.43297576904297 milliseconds
+Time Decryption: 0.11869168281555176 seconds
+Time Decryption: 118.69168281555176 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 900
+Time Encryption: 0.09564352035522461 seconds
+Time Encryption: 95.64352035522461 milliseconds
+Time Decryption: 0.11597681045532227 seconds
+Time Decryption: 115.97681045532227 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 910
+Time Encryption: 0.0897681713104248 seconds
+Time Encryption: 89.7681713104248 milliseconds
+Time Decryption: 0.10316300392150879 seconds
+Time Decryption: 103.16300392150879 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 920
+Time Encryption: 0.09987592697143555 seconds
+Time Encryption: 99.87592697143555 milliseconds
+Time Decryption: 0.10413908958435059 seconds
+Time Decryption: 104.13908958435059 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 930
+Time Encryption: 0.09194564819335938 seconds
+Time Encryption: 91.94564819335938 milliseconds
+Time Decryption: 0.10418415069580078 seconds
+Time Decryption: 104.18415069580078 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 940
+Time Encryption: 0.12340140342712402 seconds
+Time Encryption: 123.40140342712402 milliseconds
+Time Decryption: 0.11530876159667969 seconds
+Time Decryption: 115.30876159667969 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 950
+Time Encryption: 0.09863662719726562 seconds
+Time Encryption: 98.63662719726562 milliseconds
+Time Decryption: 0.11357975006103516 seconds
+Time Decryption: 113.57975006103516 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 960
+Time Encryption: 0.11016035079956055 seconds
+Time Encryption: 110.16035079956055 milliseconds
+Time Decryption: 0.12468481063842773 seconds
+Time Decryption: 124.68481063842773 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 970
+Time Encryption: 0.10041069984436035 seconds
+Time Encryption: 100.41069984436035 milliseconds
+Time Decryption: 0.12234807014465332 seconds
+Time Decryption: 122.34807014465332 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 980
+Time Encryption: 0.11521697044372559 seconds
+Time Encryption: 115.21697044372559 milliseconds
+Time Decryption: 0.12215209007263184 seconds
+Time Decryption: 122.15209007263184 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 990
+Time Encryption: 0.11417770385742188 seconds
+Time Encryption: 114.17770385742188 milliseconds
+Time Decryption: 0.14425039291381836 seconds
+Time Decryption: 144.25039291381836 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 1000
+Time Encryption: 0.11848664283752441 seconds
+Time Encryption: 118.48664283752441 milliseconds
+Time Decryption: 0.12739253044128418 seconds
+Time Decryption: 127.39253044128418 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 1010
+Time Encryption: 0.11320924758911133 seconds
+Time Encryption: 113.20924758911133 milliseconds
+Time Decryption: 0.13042497634887695 seconds
+Time Decryption: 130.42497634887695 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 1020
+Time Encryption: 0.11667728424072266 seconds
+Time Encryption: 116.67728424072266 milliseconds
+Time Decryption: 0.14874482154846191 seconds
+Time Decryption: 148.7448215484619 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
+Key: 1024
+Time Encryption: 0.11631464958190918 seconds
+Time Encryption: 116.31464958190918 milliseconds
+Time Decryption: 0.13870525360107422 seconds
+Time Decryption: 138.70525360107422 milliseconds
+Status: SUCCESS CRACK
+-----------------------------------------------------------
