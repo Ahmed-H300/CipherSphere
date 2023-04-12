@@ -19,11 +19,11 @@ BUILT_IN_choice = input('Choose to use built in or not (1 for yes) (0 for no) an
 if BUILT_IN_choice == '1':
     BUILT_IN = True
     LIST_KEYS = [30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 
-            130, 140, 150, 160, 170, 180]
+            130, 140, 150, 160]
     filename = "TimeCalculatedRSA_Builtin.txt"
 elif BUILT_IN_choice == '0':
     BUILT_IN = False
-    LIST_KEYS = [30, 40, 50]
+    LIST_KEYS = [30, 40, 50, 60, 70]
     filename = "TimeCalculatedRSA_MyFunction.txt"
 else:
     print('EXIT')
